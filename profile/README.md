@@ -1,12 +1,5 @@
-## Hi there 👋
+# Uppercut Deluxe
 
-<!--
+Inspired by the timeless style of the 1950s barbershop and its spiritual founder, Willy Uppercut OShea, Uppercut Deluxe is a modern, yet traditional approach to mens grooming. An Australian born brand proudly made with only the finest ingredients, Uppercut Deluxe delivers a core range of high quality grooming products for men without all the fancy embellishments of salon brands.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+See https://uppercutdeluxe.com for more information.
